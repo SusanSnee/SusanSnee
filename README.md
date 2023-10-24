@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SusanSnee
-- 👀 I’m interested in learning to code.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to see how this works.
+- 👀 I’m interested in Python, Excel and writing effective chatGPT prompts.
+- 🌱 I’m currently learning how Git and Github work.
+- 💞️ I’m exploring new horizons and attempting to keep my brain from turning to mush.
 - 📫 The best way to reach me is by text to 601-600-7633. Be sure to tell me why you want to reach me. I'm kind of selective in returning texts.
 
 <!---
